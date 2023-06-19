@@ -28,13 +28,3 @@ The repo contains the IPython Notebook for prediction task and the dataset as cs
 Run the ipynb to see the results.
 Output
 Correlation between different attributes
-
-1
-
-RMSE
-
-2
-
-Coefficient values
-
-3
